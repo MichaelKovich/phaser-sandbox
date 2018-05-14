@@ -1,0 +1,12 @@
+{
+  "name": "phaser-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MichaelKovich/phaser-sandbox.git",
+  "author": "Michael Kovich <kovich@michaelkovich.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
